@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[3ymard 's Blog]]></title>
-  
+  <subtitle><![CDATA[吾輩わがはいは猫である 名前はまだ無い]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-02-09T07:39:30.780Z</updated>
+  <updated>2015-02-09T07:54:44.932Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
